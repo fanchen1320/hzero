@@ -156,16 +156,15 @@ HZERO平台由多个微服务程序组成，各微服务的下载请参见下文
 
 ## 开始使用HZERO
 
-有关操作手册，请[阅读文档](https://open.hand-china.com/publish-center/product/product-detail/10067/version/10239/document?docVersion=1.5&doc_id=34325)。
+有关操作手册，请[阅读文档](https://open.hand-china.com/document-center/doc/product/10067/10239?doc_id=34325)。
 
 ## 开始开发
 
 HZERO微服务开发框架有两个方面，即 **微服务后端**和 **前端**。
 
-如果您要开发微服务后端，请参阅[微服务开发人员的文档](https://open.hand-china.com/publish-center/product/product-detail/10067/version/10239/document?docVersion=1.5&doc_id=34457)。
+如果您要开发微服务后端，请参阅[微服务开发人员的文档](https://open.hand-china.com/document-center/doc/product/10067/10239?doc_id=34457)。
 
-另外，借助[前端开发人员的文档](https://open.hand-china.com/publish-center/product/product-detail/10067/version/10239/document?docVersion=1.5&doc_id=34395)，您可以使用HZERO的前端样式。
-
+另外，借助[前端开发人员的文档](https://open.hand-china.com/document-center/doc/product/10067/10239?doc_id=34395)，您可以使用HZERO的前端样式。
 ## HZERO的组成
 
 该存储库包含HZERO文档的源代码。如果您要查找单个组件，则可访问组件自己的存储库中。
