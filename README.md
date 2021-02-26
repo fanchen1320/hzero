@@ -93,7 +93,6 @@ HZERO平台由多个微服务程序组成，各微服务的下载请参见下文
     │   ├─ hzero-starter-websocket                   websocket组件
     │   ├─ hzero-starter-lock                        Redis锁组件
     │   ├─ hzero-starter-register-event              服务注册组件
-    │   ├─ hzero-starter-local-feign                 Feign转本地调用组件
     │   ├─ hzero-starter-feign-replay                Feign调用客户端支持组件
     │   ├─ hzero-starter-apollo-config               阿波罗配置中心客户端组件
     │   ├─ hzero-starter-metric                      JVM监控组件
